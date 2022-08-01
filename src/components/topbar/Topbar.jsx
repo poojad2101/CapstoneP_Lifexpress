@@ -20,8 +20,8 @@ export default function Topbar({user, setUser
       <div className="topCenter">
         <ul className="topList">
           <li className="topListItem">
-            <Link className="link" to="/">
-              HOME
+            <Link className="link" to="/dashboard">
+              DASHBOARD
             </Link>
           </li>
           <li className="topListItem">ABOUT</li>

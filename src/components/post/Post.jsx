@@ -20,7 +20,7 @@ export default function Post({ post }) {
         </div>
         <span className="postTitle">{post?.title}</span>
         <hr />
-        <span className="postDate">{format(post?.createdAt)}</span>
+        {<span className="postDate">{format(post?.createdAt)}</span>}
       </div>
     </div>
   );

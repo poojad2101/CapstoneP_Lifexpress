@@ -71,7 +71,7 @@ export default function SinglePost({ postId }) {
           <span className="singlePostCreator">
             Creator: <b>{currentPost?.user?.username}</b>
           </span>
-          <span>{format(currentPost?.createdAt)}</span>
+          {<span>{format(currentPost?.createdAt)}</span>}
         </div>
       </div>
       {isEditing ? (

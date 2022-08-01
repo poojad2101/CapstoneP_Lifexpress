@@ -9,7 +9,7 @@ export default function Write({ user }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await createPost({ userId: user?._id, title, desc });
+    // const response = await createPost({ userId: user?._id, title, desc });
     setTitle('')
     setDesc('')
   };

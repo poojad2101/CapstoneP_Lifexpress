@@ -1,72 +1,72 @@
 .write {
-  padding-top: 50px;
+  padding-top: 50px !important; 
 }
 
 .writeImg {
-  margin-left: 150px;
-  width: 70vw;
-  height: 250px;
-  border-radius: 10px;
-  object-fit: cover;
+  margin-left: 150px !important;
+  width: 70vw !important;
+  height: 250px !important;
+  border-radius: 10px !important;
+  object-fit: cover !important ;
 }
 
 .writeForm {
-  position: relative;
+  position: relative !important;
 }
 
 .writeFormGroup {
-  margin-left: 150px;
-  display: flex;
-  align-items: center;
+  margin-left: 150px !important;
+  display: flex !important;
+  align-items: center !important;
 }
 
 .writeIcon {
-  width: 25px;
-  height: 25px;
-  font-size: 20px;
-  border: 1px solid;
-  border-radius: 50%;
-  color: rgb(129, 125, 125);
-  display: flex;
-  align-items: center;
+  width: 25px !important;
+  height: 25px !important;
+  font-size: 20px !important;
+  border: 1px solid !important;
+  border-radius: 50% !important;
+  color: rgb(159, 3, 3) !important;
+  display: flex !important;
+  align-items: center !important;
   justify-content: center;
   cursor: pointer;
 }
 
 .writeInput {
-  font-size: 30px;
-  border: none;
-  padding: 20px;
-  width: 70vw;
+  font-size: 30px !important;
+  border: none !important;
+  padding: 20px !important;
+  width: 70vw !important;
 }
 
 .writeInput::placeholder {
-  color: rgb(189, 185, 185);
-  font-weight: 400;
+  color: rgb(189, 185, 185) !important;
+  font-weight: 400 !important;
 }
 
 .writeInput:focus {
-  outline-style: none;
+  outline-style: none !important;
 }
 
 .writeText {
-  width: 70vw;
-  height: 100vh;
-  font-family: inherit;
-  font-size: 20px;
+  width: 70vw !important;
+  height: 100vh !important;
+  font-family: inherit !important;
+  font-size: 20px !important;
 }
 
 .writeSubmit {
-  position: absolute;
-  top: 20px;
-  right: 50px;
-  color: white;
-  background-color: teal;
-  padding: 10px;
-  border: none;
-  border-radius: 10px;
-  font-size: 16px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
+  position: absolute !important;
+  top: 20px !important;
+  right: 50px !important;
+  color: white !important;
+  background-color: teal !important;
+  padding: 10px !important;
+  border: none !important;
+  border-radius: 10px !important;
+  font-size: 16px !important;
+  cursor: pointer !important;
+  display: flex !important;
+  align-items: center !important;
 }
