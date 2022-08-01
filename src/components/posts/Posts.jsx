@@ -20,6 +20,7 @@ export default function Posts() {
 
   return (
     <div className="posts">
+      <Post img="https://images.pexels.com/photos/12604653/pexels-photo-12604653.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load" />
       {posts?.map((post) => (
         <Post post={post} />
       ))}
