@@ -17,6 +17,14 @@ Login Page
 
 [![Untitled-4.png](https://i.postimg.cc/BQxFVTkP/Untitled-4.png)](https://postimg.cc/vcZD1VQG)
 
+Register
+[![Untitled-6.png](https://i.postimg.cc/W4Pq6hX6/Untitled-6.png)](https://postimg.cc/BjMvJQWX)
+
+Dashboard
+
+
+
+
 
 # Run Locally
 • Clone the project
