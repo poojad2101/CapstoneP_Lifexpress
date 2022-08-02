@@ -12,6 +12,18 @@ A user is able to
 • create a new blog post, edit and delete their own posts. 
 
 
+# Screenshots
+Login Page
+
+
+
+Register
+[![Untitled-6.png](https://i.postimg.cc/W4Pq6hX6/Untitled-6.png)](https://postimg.cc/BjMvJQWX)
+
+Dashboard
+
+
+
 
 
 # Run Locally
