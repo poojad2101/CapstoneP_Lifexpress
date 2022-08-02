@@ -11,9 +11,9 @@ import Register from '../register/Register';
 import Dashboard from '../dashboard/Dashboard';
 import Home from '../home/Home';
 import Topbar from '../../components/topbar/Topbar';
+import Settings from '../settings/Settings';
 import Write from '../../pages/write/Write';
 import Single from '../single/Single';
-import Settings from '../settings/Settings';
 
 export default function App() {
   console.log('in app');
@@ -21,8 +21,9 @@ export default function App() {
   return (
     <main className="App">
       <Topbar user={user} setUser={setUser} />
+      
       {user ? (
-        <>
+       <>
           {/* <NavBar user={user} setUser={setUser} /> */}
           <Routes>
             <Route path="/dashboard" element={<Dashboard />} />
@@ -37,7 +38,7 @@ export default function App() {
           <Route path="/" element={<Home />} /> 
           <Route path="/login" element={<Login setUser={setUser} />} />
           <Route path="/register" element={<Register setUser={setUser} />} />
-          <Route path="/settings" element={<Settings setUser={setUser} />} />
+          {/* <Route path="/settings" element={<Settings setUser={setUser} />} /> */}
         </Routes>
       
       )}
