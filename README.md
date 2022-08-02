@@ -14,13 +14,16 @@ A user is able to
 
 # Screenshots
 Login Page
+[![login.png](https://i.postimg.cc/CKjN3B21/login.png)](https://postimg.cc/VSknM6mQ)
 
 
 
 Register
-[![Untitled-6.png](https://i.postimg.cc/W4Pq6hX6/Untitled-6.png)](https://postimg.cc/BjMvJQWX)
+[![Screen-Shot-2022-08-01-at-9-31-41-PM.png](https://i.postimg.cc/Px3d1Nr2/Screen-Shot-2022-08-01-at-9-31-41-PM.png)](https://postimg.cc/qhKfTJK3)
+
 
 Dashboard
+[![Untitled-4.png](https://i.postimg.cc/dQj2cYNn/Untitled-4.png)](https://postimg.cc/jCCwyGbJ)
 
 
 
