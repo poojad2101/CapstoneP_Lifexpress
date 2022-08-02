@@ -29,7 +29,7 @@
   color: rgb(159, 3, 3) !important;
   display: flex !important;
   align-items: center !important;
-  justify-content: center;
+  justify-content: center !important;
   cursor: pointer;
 }
 
